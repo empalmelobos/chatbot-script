@@ -1,4 +1,3 @@
-<script>
   // Respuestas basadas en palabras clave
   var responses = {
   &quot;hola&quot;: &quot;&#161;Hola! &#191;En qué puedo ayudarte?&quot;,
@@ -511,4 +510,3 @@ chatbotSend.addEventListener(&quot;click&quot;, function() {
       chatbotSend.click();
     }
   });
-</script>
